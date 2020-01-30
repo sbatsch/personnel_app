@@ -1,0 +1,9 @@
+{
+  id: employee.id,
+  department_id: employee.department_id, 
+  name: employee.name,
+  email: employee.email, 
+  title: employee.title, 
+  salary: employee.salary,
+  full_time: employee.full_time
+}
